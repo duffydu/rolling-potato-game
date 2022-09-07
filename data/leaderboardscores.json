@@ -1,0 +1,30 @@
+{
+    "listType": "leadershipBoard",
+    "scoreEntries": [
+        {
+            "date": "2021-11-26 05:09",
+            "score": 18120,
+            "username": "username"
+        },
+        {
+            "date": "2021-11-26 04:10",
+            "score": 11180,
+            "username": "username"
+        },
+        {
+            "date": "2021-11-26 03:50",
+            "score": 8360,
+            "username": "username"
+        },
+        {
+            "date": "2021-11-26 05:08",
+            "score": 5880,
+            "username": "username"
+        },
+        {
+            "date": "2021-11-26 05:08",
+            "score": 5720,
+            "username": "username"
+        }
+    ]
+}

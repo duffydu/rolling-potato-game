@@ -1,0 +1,25 @@
+{
+    "listType": "player",
+    "scoreEntries": [
+        {
+            "date": "2021-11-26 05:09",
+            "score": 18120,
+            "username": "username"
+        },
+        {
+            "date": "2021-11-26 05:08",
+            "score": 5880,
+            "username": "username"
+        },
+        {
+            "date": "2021-11-26 05:08",
+            "score": 5720,
+            "username": "username"
+        },
+        {
+            "date": "2021-11-26 05:08",
+            "score": 4620,
+            "username": "username"
+        }
+    ]
+}
